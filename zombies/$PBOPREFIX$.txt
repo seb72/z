@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=zombies
+Pbo Type is: Arma Addon
+Sha: '7E7E2C650BC3EB5A615B012167A7445696E9A93A'
+//////</HEADER>//////
